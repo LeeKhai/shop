@@ -1,0 +1,30 @@
+/*
+ * ::::::::::: Custom Styles :::::::::::
+ * Note: use this file to add or override any other styles.
+ * DON'T EDIT TEMPLATE CSS/SCSS FILES DIRECTLY, JUST USE THIS FILE.
+ */
+
+ .works-latest .works-latest-item .works-latest-item-meta h5 a, .works-latest .works-latest-item .works-latest-item-meta h3 a, .works-latest .works-latest-item .works-latest-item-meta h5, .works-latest-item .works-latest-item-meta h3 {
+  opacity: 1;
+ }
+
+ body .image-hover figure img {
+     min-height: auto!important;
+ }
+
+ .box-item p.has-text-tertiary {
+    color: #D8D8D8!important;
+}
+
+ @media screen and (max-width:768px) {
+     body .works-latest .works-latest-item .works-latest-item-meta h3 {
+         font-size: 18px;
+     }
+
+     body .image-hover figure img {
+         min-height: auto!important;
+     }
+
+}
+
+/*# sourceMappingURL=_maps/custom.css.map */
