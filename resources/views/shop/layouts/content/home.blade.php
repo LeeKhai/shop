@@ -134,7 +134,7 @@
             </section>
             <section class="section subscribe-section is-clearfix">
                 <div class="container">
-                    <h1 class="heading-title style-1">Let’s make something
+                    <h1 class="heading-title style-1">Love voe
                         <br> great together</h1>
                     <div class="has-text-centered" data-aos="fade-up">
                         <a href="pages/contact.html" class="button is-primary">let's do it!</a>
